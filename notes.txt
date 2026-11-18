@@ -1,1 +1,2 @@
-N2|Maths|Revise calculus
+N1|python|learn loops
+N2|maths|revise calculus

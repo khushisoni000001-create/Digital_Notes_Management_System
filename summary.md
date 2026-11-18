@@ -39,17 +39,20 @@ The following test cases were used to check whether the program works correctly.
 | Delete a note | Note deleted successfully |
 
 ### Test Case 1: Add Note
-
+![alt text](<test case 1.png>)
 
 ### Test Case 2: View Notes
-
+![alt text](<test case 2.png>)
 
 ### Test Case 3: Search Note
-
+![alt text](<test case 3.png>)
 
 ### Test Case 4: Edit and Delete
+![alt text](<test case 4.1.png>)
 
+![alt text](<test case 4.2.png>)
 
+![alt text](<test case 4.3.png>)
 ## What I Learned
 
 Through this project, I learned:
